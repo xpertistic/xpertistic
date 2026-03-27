@@ -1,5 +1,9 @@
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+<h1 align="center">Hi 👋, I'm Junaid</h1>
+<h3 align="center">A Student and a curious AI Dev</h3>
+
 # 💫 About Me:
-I'm currently studying as a BsAI student at NUML Islamabad. 🧑‍🎓<br>I've keen skills in brainstorming and research. 🔍<br>I'm fond of doing my research about the tech world. 💻<br>I'm multilingual and speak fluently. 🗣️<br>I've moderate experiences on HTML, C++ and Java. 🪽<br>I've mastered MS OFFICE course. 💯<br>Made multiple applications using gradle/flutter.<br>I'm open to work as an internee and welcome job experiences. 😃
+• I'm currently studying as a BsAI student at NUML Islamabad. 🧑‍🎓<br>• I've keen skills in brainstorming and research. 🔍<br>• I'm fond of doing my research about the tech world. 💻<br>• I'm multilingual and speak fluently. 🗣️<br>• I've moderate experiences on HTML, C++ and Java. 🪽<br>• I've mastered MS OFFICE course. 💯<br>• Made multiple applications using gradle/flutter.<br>• I'm open to work as an internee and welcome job experiences. 😃
 
 
 ## 🌐 Socials:
